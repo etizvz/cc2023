@@ -2,12 +2,21 @@
 /* The background color of index*/
 
 body {
-  font-family: monospace;
+/*   font-family: monospace;
   margin: 2em;
   width: 100%;
   height: 100%;
-  background-color: #FFB6C1;
+  background-color: #FFB6C1; */
+margin: 0;
+    padding: 0;
+}
 
+.pattern {
+    width: 100%;
+    height: 100vh;
+    background-image: url('yhttps://i.pinimg.com/originals/94/fd/98/94fd98a4118ea396b6902b1621374e71.jpg'); /* Replace 'your-image-file.jpg' with the actual filename of your image */
+    background-repeat: repeat;
+    background-size: auto;
 
 }
 /* my name index*/
